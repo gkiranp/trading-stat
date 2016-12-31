@@ -7,5 +7,7 @@ There are multiple components associated with this project,
 * Yahoo Finance : This is the stock market data source where the stock information will be fetched from.
 * Stock Analyser : This library helps parsing and formatting data fetched from Yahoo Finance.
 
+![Alt text](./trading-stat.jpg?raw=true "Block diagram of Trading-Stat project")
+
 Complete project is under development and only few components are finished.
 I will push to repository as and when I finish my development and testing.
